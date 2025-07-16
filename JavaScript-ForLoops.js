@@ -134,7 +134,7 @@ console.log(makePlural(arr2)); // should log: ['computers', 'video games', 'syst
 
 
 function getTheSum(arr){
-  // ADD CODE HERE
+  
   let sum=0;
   
   // base for loop
